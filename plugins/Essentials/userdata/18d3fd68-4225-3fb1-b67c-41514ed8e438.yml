@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.191.15.8
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749248677983
+  login: 1749248575758
+money: '0'
+last-account-name: Alasadg
+logoutlocation:
+  world: 4115495b-0710-4b04-8bfe-74c3987bb255
+  world-name: world
+  x: -16.442336531542278
+  y: 151.0
+  z: -103.69999998807907
+  yaw: 178.67120361328125
+  pitch: 45.69240188598633

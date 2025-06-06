@@ -4,9 +4,11 @@
     "name": "bonnie_donkis",
     "level": 4,
     "bypassesPlayerLimit": false
-  },
+  }
+]
+[
   {
-    "uuid": "4d8584bb-d831-3963-b026-93d3217d45bc",
+    "uuid": "7d267df5-667e-4a9f-9523-aec2408699ac",
     "name": "mwyi",
     "level": 4,
     "bypassesPlayerLimit": false
