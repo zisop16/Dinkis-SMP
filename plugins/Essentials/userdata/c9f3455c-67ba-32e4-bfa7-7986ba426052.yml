@@ -1,6 +1,6 @@
 teleportenabled: true
 teleportauto: false
-godmode: true
+godmode: false
 muted: false
 jailed: false
 ip-address: 2.242.29.13
@@ -17,7 +17,7 @@ timestamps:
   jail: 0
   onlinejail: 0
   logout: 1749251094597
-  login: 1749250897790
+  login: 1749251770538
 money: '0'
 last-account-name: AmeliNyah
 lastlocation:

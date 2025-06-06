@@ -1,0 +1,112 @@
+# This config was last loaded with ClaimChunk version 0.0.25-FIX3
+# 
+# This is the per-world config file for the world "world_the_end"
+# 
+#    _    _      _
+#   | |  | |    | |
+#   | |__| | ___| |_ __
+#   |  __  |/ _ \ | '_ \
+#   | |  | |  __/ | |_) |
+#   |_|  |_|\___|_| .__/
+#                 | |
+#                 |_|
+#  -----------------------
+# 
+# Each label has `claimedChunks` or `unclaimedChunks` and `blockAccesses` or `entitiesAccesses`
+# Under each label, the code name of either an entity or block appears, followed by the protections (order for protections does *NOT* matter).
+# Protections with a value of `true` will be allowed, those with a value of `false` will not.For blocks, the protections are: `B` for breaking, `P` for placing, `I` for interacting, and `E` for exploding.
+# For entities, the protections are: `D` for damaging, `I` for interacting, and `E` for exploding.
+# Note: These protections (except for exploding) are purely player-based.
+# I.e. `D` for damaging entities, when set to `D:false` will prevent players from damaging the entity.
+# 
+# Examples:
+# 
+# To allow only interacting with all blocks in unclaimed chunks in this world:
+# 
+# unclaimedChunks.blockAccesses:
+#   __DEFAULT__:  I:true B:false P:false E:false ;
+# 
+# (Note: the key `__DEFAULT__` can be used to mean "all blocks/entities will have this if they are not defined here")
+# 
+# Finally, the `_` label is for world properties. These will not vary between unclaimed and claimed chunks.
+# 
+# More information will be available on the website: https://claimchunk.cjburkey.com
+
+_._@B_:
+  CONTAINER  [ CYAN_SHULKER_BOX, CHEST_MINECART, BLAST_FURNACE, GREEN_SHULKER_BOX, MAGENTA_SHULKER_BOX, LIGHT_GRAY_SHULKER_BOX, HOPPER_MINECART, FURNACE, LIGHT_BLUE_SHULKER_BOX, WHITE_SHULKER_BOX, TRAPPED_CHEST, GRAY_SHULKER_BOX, FURNACE_MINECART, LIME_SHULKER_BOX, BREWING_STAND, RED_SHULKER_BOX, PINK_SHULKER_BOX, SMOKER, DISPENSER, PURPLE_SHULKER_BOX, HOPPER, CHEST, BLUE_SHULKER_BOX, BLACK_SHULKER_BOX, ORANGE_SHULKER_BOX, YELLOW_SHULKER_BOX, SHULKER_BOX, BROWN_SHULKER_BOX, BARREL, DROPPER ] ;
+  DOOR  [ MANGROVE_TRAPDOOR, WAXED_COPPER_TRAPDOOR, OAK_TRAPDOOR, WAXED_EXPOSED_COPPER_DOOR, IRON_TRAPDOOR, PALE_OAK_DOOR, ACACIA_TRAPDOOR, DARK_OAK_DOOR, BIRCH_TRAPDOOR, CHERRY_TRAPDOOR, BAMBOO_TRAPDOOR, JUNGLE_DOOR, WARPED_TRAPDOOR, COPPER_DOOR, WAXED_COPPER_DOOR, EXPOSED_COPPER_TRAPDOOR, WAXED_OXIDIZED_COPPER_DOOR, CHERRY_DOOR, WAXED_OXIDIZED_COPPER_TRAPDOOR, WARPED_DOOR, WAXED_WEATHERED_COPPER_TRAPDOOR, WAXED_EXPOSED_COPPER_TRAPDOOR, MANGROVE_DOOR, PALE_OAK_TRAPDOOR, DARK_OAK_TRAPDOOR, IRON_DOOR, CRIMSON_DOOR, SPRUCE_DOOR, BAMBOO_DOOR, BIRCH_DOOR, WAXED_WEATHERED_COPPER_DOOR, ACACIA_DOOR, COPPER_TRAPDOOR, JUNGLE_TRAPDOOR, OXIDIZED_COPPER_TRAPDOOR, CRIMSON_TRAPDOOR, OXIDIZED_COPPER_DOOR, WEATHERED_COPPER_TRAPDOOR, OAK_DOOR, SPRUCE_TRAPDOOR, EXPOSED_COPPER_DOOR, WEATHERED_COPPER_DOOR ] ;
+  REDSTONE  [ DARK_OAK_BUTTON, PALE_OAK_BUTTON, BAMBOO_BUTTON, MANGROVE_BUTTON, PALE_OAK_PRESSURE_PLATE, CHERRY_PRESSURE_PLATE, WARPED_PRESSURE_PLATE, ACACIA_PRESSURE_PLATE, BAMBOO_PRESSURE_PLATE, STONE_BUTTON, SPRUCE_PRESSURE_PLATE, JUNGLE_PRESSURE_PLATE, DARK_OAK_PRESSURE_PLATE, BIRCH_PRESSURE_PLATE, POLISHED_BLACKSTONE_PRESSURE_PLATE, CRIMSON_BUTTON, ACACIA_BUTTON, HEAVY_WEIGHTED_PRESSURE_PLATE, CRIMSON_PRESSURE_PLATE, CHERRY_BUTTON, OAK_BUTTON, LEVER, STONE_PRESSURE_PLATE, BIRCH_BUTTON, MANGROVE_PRESSURE_PLATE, SPRUCE_BUTTON, POLISHED_BLACKSTONE_BUTTON, LIGHT_WEIGHTED_PRESSURE_PLATE, WARPED_BUTTON, OAK_PRESSURE_PLATE, JUNGLE_BUTTON ] ;
+  SIGN  [ WARPED_HANGING_SIGN, ACACIA_HANGING_SIGN, JUNGLE_WALL_HANGING_SIGN, PALE_OAK_SIGN, BAMBOO_WALL_SIGN, BIRCH_WALL_HANGING_SIGN, OAK_HANGING_SIGN, CHERRY_WALL_SIGN, ACACIA_WALL_SIGN, ACACIA_SIGN, OAK_SIGN, DARK_OAK_SIGN, BAMBOO_HANGING_SIGN, BIRCH_WALL_SIGN, BAMBOO_SIGN, DARK_OAK_HANGING_SIGN, DARK_OAK_WALL_SIGN, SPRUCE_WALL_HANGING_SIGN, CRIMSON_HANGING_SIGN, MANGROVE_HANGING_SIGN, CRIMSON_WALL_SIGN, CHERRY_HANGING_SIGN, BIRCH_SIGN, CRIMSON_WALL_HANGING_SIGN, BIRCH_HANGING_SIGN, BAMBOO_WALL_HANGING_SIGN, SPRUCE_HANGING_SIGN, MANGROVE_WALL_HANGING_SIGN, PALE_OAK_WALL_HANGING_SIGN, OAK_WALL_HANGING_SIGN, WARPED_WALL_HANGING_SIGN, OAK_WALL_SIGN, PALE_OAK_WALL_SIGN, ACACIA_WALL_HANGING_SIGN, SPRUCE_SIGN, SPRUCE_WALL_SIGN, MANGROVE_SIGN, CRIMSON_SIGN, WARPED_SIGN, PALE_OAK_HANGING_SIGN, DARK_OAK_WALL_HANGING_SIGN, JUNGLE_HANGING_SIGN, CHERRY_SIGN, MANGROVE_WALL_SIGN, CHERRY_WALL_HANGING_SIGN, JUNGLE_SIGN, WARPED_WALL_SIGN, JUNGLE_WALL_SIGN ] ;
+
+_._@E_:
+  ANIMALS  [ MOOSHROOM, MULE, FROG, HOGLIN, LLAMA, SHEEP, ARMADILLO, POLAR_BEAR, CHICKEN, TURTLE, CAMEL, TRADER_LLAMA, ZOMBIE_HORSE, SNIFFER, BEE, HORSE, SKELETON_HORSE, PARROT, COW, FOX, AXOLOTL, PIG, CAT, GOAT, WOLF, RABBIT, STRIDER, DONKEY, PANDA, OCELOT ] ;
+  HANGING_ENTITIES  [ GLOW_ITEM_FRAME, ITEM_FRAME, PAINTING, LEASH_KNOT ] ;
+  MONSTERS  [ CREAKING, ENDERMAN, SILVERFISH, ZOMBIE_VILLAGER, HUSK, VEX, VINDICATOR, WARDEN, WITCH, SPIDER, PILLAGER, SKELETON, WITHER_SKELETON, PIGLIN_BRUTE, WITHER, CREEPER, BOGGED, ILLUSIONER, ZOMBIFIED_PIGLIN, BREEZE, CAVE_SPIDER, RAVAGER, DROWNED, GUARDIAN, EVOKER, ELDER_GUARDIAN, BLAZE, PIGLIN, ENDERMITE, GIANT, STRAY, ZOGLIN, ZOMBIE ] ;
+  VEHICLES  [ SPAWNER_MINECART, OAK_BOAT, CHEST_MINECART, BIRCH_BOAT, ACACIA_CHEST_BOAT, CHERRY_CHEST_BOAT, ACACIA_BOAT, PALE_OAK_CHEST_BOAT, HOPPER_MINECART, PALE_OAK_BOAT, BAMBOO_RAFT, MINECART, MANGROVE_CHEST_BOAT, FURNACE_MINECART, BAMBOO_CHEST_RAFT, SPRUCE_CHEST_BOAT, TNT_MINECART, CHERRY_BOAT, JUNGLE_CHEST_BOAT, MANGROVE_BOAT, COMMAND_BLOCK_MINECART, DARK_OAK_CHEST_BOAT, DARK_OAK_BOAT, BIRCH_CHEST_BOAT, OAK_CHEST_BOAT, SPRUCE_BOAT, JUNGLE_BOAT ] ;
+
+_:
+  enabled  true ;
+  preventAdjacent  [ CHEST, TRAPPED_CHEST ] ;
+  preventPearlFromClaims  false ;
+  protectOffline  true ;
+  protectOnline  true ;
+
+allow_piston.from_claimed:
+  into_diff_claimed  true ;
+  into_unclaimed  true ;
+
+allow_piston.from_unclaimed:
+  into_claimed  true ;
+
+allow_spread.fire.from_claimed:
+  into_diff_claimed  true ;
+  into_same_claimed  true ;
+  into_unclaimed  true ;
+
+allow_spread.fire.from_unclaimed:
+  into_claimed  true ;
+  into_unclaimed  true ;
+
+allow_spread.lava.from_claimed:
+  into_diff_claimed  true ;
+  into_same_claimed  true ;
+  into_unclaimed  true ;
+
+allow_spread.lava.from_unclaimed:
+  into_claimed  true ;
+  into_unclaimed  true ;
+
+allow_spread.water.from_claimed:
+  into_diff_claimed  true ;
+  into_same_claimed  true ;
+  into_unclaimed  true ;
+
+allow_spread.water.from_unclaimed:
+  into_claimed  true ;
+  into_unclaimed  true ;
+
+claimedChunks.blockAccesses:
+  @CONTAINER  B:false P:false I:false E:false ;
+  @DOOR  B:false P:false I:false E:false ;
+  @REDSTONE  B:false P:false I:false E:false ;
+  __DEFAULT__  B:false P:false I:false E:false ;
+
+claimedChunks.entityAccesses:
+  @MONSTERS  D:false E:false I:false ;
+  @VEHICLES  D:false E:false I:false ;
+  __DEFAULT__  D:false E:false I:false ;
+
+claimedChunks.other:
+  blockedCmds  [  ] ;
+
+claimedChunks.owned:
+  blockedCmds  [  ] ;
+
+unclaimedChunks.blockAccesses:
+  __DEFAULT__  B:true P:true I:true E:true ;
+
+unclaimedChunks:
+  blockedCmds  [  ] ;
+
+unclaimedChunks.entityAccesses:
+  __DEFAULT__  D:true E:true I:true ;

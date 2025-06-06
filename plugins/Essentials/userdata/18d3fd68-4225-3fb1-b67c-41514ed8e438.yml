@@ -16,15 +16,24 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749249734793
+  logout: 1749251661444
   login: 1749250917290
 money: '0'
 last-account-name: Alasadg
 logoutlocation:
-  world: 4115495b-0710-4b04-8bfe-74c3987bb255
+  world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
   world-name: world
-  x: -0.48783502899464737
-  y: 120.0
-  z: -2.699999988079071
-  yaw: 173.13558959960938
-  pitch: -6.141661643981934
+  x: 939.4593816017144
+  y: 65.9375
+  z: -347.7195660552126
+  yaw: 20.44317626953125
+  pitch: 18.786273956298828
+homes:
+  home:
+    world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
+    world-name: world
+    x: 955.8091542722806
+    y: 68.0
+    z: -278.35911541753984
+    yaw: 69.70623779296875
+    pitch: 16.885316848754883

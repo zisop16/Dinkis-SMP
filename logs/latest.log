@@ -699,3 +699,240 @@ java.util.ConcurrentModificationException: null
 [16:06:52] [luckperms-worker-7/INFO]: [LP] LOG > webeditor add essentials.rules true
 [16:07:01] [Server thread/INFO]: NavySeal10000 issued server command: /rules
 [16:07:03] [Server thread/INFO]: Alasadg issued server command: /rules
+[16:09:47] [Async Chat Thread - #2/INFO]: [Not Secure] <Alasadg> >~<
+[16:10:17] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[16:10:20] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[16:10:20] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[16:10:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:10:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:10:20] [Server thread/INFO]: [MoonriseCommon] Paper is using 4 worker threads, 1 I/O threads
+[16:10:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[16:10:20] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.13.0
+[16:10:20] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[16:10:20] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[16:10:20] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[16:10:20] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.6
+[16:10:20] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[16:10:20] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.6
+[16:10:20] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.5
+[16:10:20] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.13+82fdc65
+[16:10:20] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[16:10:20] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.1
+[16:10:20] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[16:10:20] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[16:10:20] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.14+7149-8bea01b
+[16:10:20] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[16:10:20] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[16:10:20] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.2
+[16:10:20] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[16:10:20] [Server thread/INFO]: [LuckPerms] Closing storage...
+[16:10:20] [Server thread/INFO]: [LuckPerms] Goodbye!
+[16:10:20] [Server thread/INFO]: Loaded 1370 recipes
+[16:10:20] [Server thread/INFO]: Loaded 1481 advancements
+[16:10:20] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:10:20] [Paper Async Command Builder Thread Pool - 2/ERROR]: Caught previously unhandled exception :
+[16:10:20] [Paper Async Command Builder Thread Pool - 3/ERROR]: Caught previously unhandled exception :
+[16:10:20] [Paper Async Command Builder Thread Pool - 3/ERROR]: Paper Async Command Builder Thread Pool - 3
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedEntryIterator.next(LinkedHashMap.java:1058) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedEntryIterator.next(LinkedHashMap.java:1055) ~[?:?]
+	at java.base/java.util.AbstractMap.hashCode(AbstractMap.java:527) ~[?:?]
+	at com.mojang.brigadier.tree.CommandNode.hashCode(CommandNode.java:155) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at java.base/java.util.HashMap.hash(HashMap.java:338) ~[?:?]
+	at java.base/java.util.HashMap.put(HashMap.java:618) ~[?:?]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:489) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:471) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[16:10:20] [Paper Async Command Builder Thread Pool - 2/ERROR]: Paper Async Command Builder Thread Pool - 2
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedEntryIterator.next(LinkedHashMap.java:1058) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedEntryIterator.next(LinkedHashMap.java:1055) ~[?:?]
+	at java.base/java.util.AbstractMap.hashCode(AbstractMap.java:527) ~[?:?]
+	at com.mojang.brigadier.tree.CommandNode.hashCode(CommandNode.java:155) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at java.base/java.util.HashMap.hash(HashMap.java:338) ~[?:?]
+	at java.base/java.util.HashMap.put(HashMap.java:618) ~[?:?]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:489) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:471) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[16:10:20] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins\LandClaiming.jar'...
+[16:10:20] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins\LandClaiming.jar' in 216ms.
+[16:10:20] [Server thread/INFO]: [PluginInitializerManager] Initialized 10 plugins
+[16:10:20] [Server thread/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - EconomyShopGUI (6.13.0)
+[16:10:20] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+ - Essentials (2.21.1), LandClaiming (1.4.11), LoginSecurity (3.3.0), LuckPerms (5.5.2), SimpleTpa (7.6), SkinsRestorer (15.6.5), Vault (1.7.3-b131), WorldEdit (7.3.14+7149-8bea01b), WorldGuard (7.0.13+82fdc65)
+[16:10:20] [Server thread/WARN]: [PluginInitializerManager] ======== WARNING ========
+[16:10:20] [Server thread/WARN]: [PluginInitializerManager] You are reloading while having Paper plugins installed on your server.
+[16:10:20] [Server thread/WARN]: [PluginInitializerManager] Paper plugins do NOT support being reloaded. This will cause some unexpected issues.
+[16:10:20] [Server thread/WARN]: [PluginInitializerManager] =========================
+[16:10:21] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.2
+[16:10:21] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[16:10:21] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.14+7149-8bea01b
+[16:10:21] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2bab6aac]
+[16:10:21] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.1
+[16:10:21] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.13+82fdc65
+[16:10:21] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.5
+[16:10:21] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.6
+[16:10:21] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[16:10:21] [Server thread/INFO]: [LandClaiming] Loading server plugin LandClaiming v1.4.11
+[16:10:21] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.13.0
+[16:10:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:10:21] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.2
+[16:10:21] [Server thread/INFO]:         __    
+[16:10:21] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.2
+[16:10:21] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[16:10:21] [Server thread/INFO]: 
+[16:10:21] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[16:10:21] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[16:10:22] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[16:10:22] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[16:10:22] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 512ms)
+[16:10:22] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[16:10:22] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[16:10:22] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[16:10:22] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[16:10:22] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[16:10:22] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.14+7149-8bea01b
+[16:10:22] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[16:10:22] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[16:10:22] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[16:10:22] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
+[16:10:22] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.5
+[16:10:22] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[16:10:22] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[16:10:23] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[16:10:23] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.1
+[16:10:23] [Folia Async Scheduler Thread #7/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:10:23] [Folia Async Scheduler Thread #7/INFO]: [SkinsRestorer]     +==================+
+[16:10:23] [Folia Async Scheduler Thread #7/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[16:10:23] [Folia Async Scheduler Thread #7/INFO]: [SkinsRestorer]     |------------------|
+[16:10:23] [Folia Async Scheduler Thread #7/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[16:10:23] [Folia Async Scheduler Thread #7/INFO]: [SkinsRestorer]     +==================+
+[16:10:23] [Folia Async Scheduler Thread #7/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:10:23] [Folia Async Scheduler Thread #7/INFO]: [SkinsRestorer]     Version: 15.6.5
+[16:10:23] [Folia Async Scheduler Thread #7/INFO]: [SkinsRestorer]     Commit: f8c262a
+[16:10:23] [Folia Async Scheduler Thread #7/INFO]: [SkinsRestorer]     This is the latest version!
+[16:10:23] [Folia Async Scheduler Thread #7/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:10:23] [Folia Async Scheduler Thread #7/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[16:10:23] [Folia Async Scheduler Thread #7/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[16:10:23] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[16:10:23] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[16:10:23] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[16:10:23] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[16:10:23] [Server thread/INFO]: [Essentials] Loaded 43517 items from items.json.
+[16:10:23] [Server thread/INFO]: [Essentials] Using locale en_US
+[16:10:23] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[16:10:23] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[16:10:23] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[16:10:23] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[16:10:23] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.13+82fdc65
+[16:10:23] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[16:10:23] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[16:10:23] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[16:10:23] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[16:10:23] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[16:10:23] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[16:10:23] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[16:10:23] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[16:10:23] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[16:10:23] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[16:10:23] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[16:10:23] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[16:10:23] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[16:10:23] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[16:10:23] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[16:10:23] [Server thread/INFO]: [WorldGuard] Loading region data...
+[16:10:23] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.6
+[16:10:23] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[16:10:23] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.6
+[16:10:23] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[16:10:23] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[16:10:23] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[16:10:23] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[16:10:23] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[16:10:23] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[16:10:23] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[16:10:23] [Server thread/INFO]: [LandClaiming] Enabling LandClaiming v1.4.11
+[16:10:23] [Server thread/ERROR]: [LandClaiming] Could not log to D:\Dinkis SMP\plugins\AUpdater\updater.log!
+java.nio.file.NoSuchFileException: plugins\AUpdater\updater.log
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at java.base/java.nio.file.Files.write(Files.java:3561) ~[?:?]
+	at LandClaiming.jar/me.zombie_striker.landclaiming.Updater.log(Updater.java:508) ~[LandClaiming.jar:?]
+	at LandClaiming.jar/me.zombie_striker.landclaiming.Updater.<init>(Updater.java:89) ~[LandClaiming.jar:?]
+	at LandClaiming.jar/me.zombie_striker.landclaiming.Updater.<init>(Updater.java:137) ~[LandClaiming.jar:?]
+	at LandClaiming.jar/me.zombie_striker.landclaiming.LandClaiming.onEnable(LandClaiming.java:148) ~[LandClaiming.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:280) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:658) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:607) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1151) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at org.bukkit.Bukkit.reload(Bukkit.java:1038) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1018) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:1003) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:478) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:428) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1738) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1529) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1251) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[16:10:23] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.13.0
+[16:10:24] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using lang-en.yml as language file.
+[16:10:24] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 6 section configs from /sections/
+[16:10:24] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 6 shop configs from /shops/
+[16:10:24] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Updating Shop settings...
+[16:10:24] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Successfully hooked into Vault and using EssentialsX Economy as economy provider
+[16:10:24] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 1 economy provider(s) for all 4 shop sections.
+[16:10:24] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using minecraft version 1.21.4...
+[16:10:24] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Spawner provider set to AUTO in config
+[16:10:24] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Automatically searching for compatible spawner provider....
+[16:10:24] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Failed to automatically find compatible spawner provider, using default...
+[16:10:24] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Debug mode is enabled.
+[16:10:24] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Loading all items...
+[16:10:24] [Server thread/INFO]: [EconomyShopGUI] [WARN]: The place of shop Decoration in the main shop-inventory has automatically been changed to '0' because it was already used or could not be found.
+[16:10:24] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Initialized - Took 113ms to complete
+[16:10:24] [Server thread/INFO]: CONSOLE: Reload complete.
+[16:10:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3807ms or 76 ticks behind
+[16:10:24] [Craft Scheduler Thread - 34 - Essentials/INFO]: [Essentials] Fetching version information...
+[16:10:24] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[16:10:24] [Craft Scheduler Thread - 35 - Vault/INFO]: [Vault] Checking for Updates ... 
+[16:10:24] [Craft Scheduler Thread - 35 - Vault/INFO]: [Vault] No new version available
+[16:10:28] [Async Chat Thread - #2/INFO]: [Not Secure] <bonnie_donkis> d
+[16:10:31] [Server thread/INFO]: bonnie_donkis issued server command: /plugins
+[16:11:00] [Server thread/INFO]: Alasadg has made the advancement [Acquire Hardware]
