@@ -161,6 +161,8 @@ world-settings:
       display: 128
       other: 64
     verbose: false
+  worldeditregentempworld:
+    verbose: false
 players:
   disable-saving: false
 config-version: 12

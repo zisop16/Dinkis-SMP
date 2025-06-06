@@ -1,0 +1,236 @@
+[15:40:30] [ServerMain/INFO]: [bootstrap] Running Java 21 (Java HotSpot(TM) 64-Bit Server VM 21.0.7+8-LTS-245; Oracle Corporation null) on Windows 11 10.0 (amd64)
+[15:40:30] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) for Minecraft 1.21.4
+[15:40:30] [ServerMain/WARN]: [oshi.driver.windows.perfmon.PerfmonDisabled] Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[15:40:30] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[15:40:31] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[15:40:31] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - EconomyShopGUI (6.13.0)
+[15:40:31] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+ - Essentials (2.21.1), LoginSecurity (3.3.0), LuckPerms (5.5.2), SimpleTpa (7.6), SkinsRestorer (15.6.5), Vault (1.7.3-b131), WorldEdit (7.3.14+7149-8bea01b), WorldGuard (7.0.13+82fdc65)
+[15:40:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:40:36] [ServerMain/INFO]: Loaded 1370 recipes
+[15:40:36] [ServerMain/INFO]: Loaded 1481 advancements
+[15:40:36] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[15:40:36] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 138.2ms
+[15:40:36] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[15:40:36] [Server thread/INFO]: Loading properties
+[15:40:36] [Server thread/INFO]: This server is running Paper version 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[15:40:36] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:40:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:40:36] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:40:37] [Server thread/INFO]: [MoonriseCommon] Paper is using 4 worker threads, 1 I/O threads
+[15:40:37] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[15:40:37] [Server thread/INFO]: Default game type: SURVIVAL
+[15:40:37] [Server thread/INFO]: Generating keypair
+[15:40:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:40:37] [Server thread/INFO]: Using default channel type
+[15:40:37] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[15:40:37] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[15:40:38] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.2
+[15:40:38] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[15:40:38] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.14+7149-8bea01b
+[15:40:38] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@70c39608]
+[15:40:38] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.1
+[15:40:38] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.13+82fdc65
+[15:40:38] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.5
+[15:40:38] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.6
+[15:40:38] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[15:40:38] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.13.0
+[15:40:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:40:38] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.2
+[15:40:39] [Server thread/INFO]:         __    
+[15:40:39] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.2
+[15:40:39] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[15:40:39] [Server thread/INFO]: 
+[15:40:39] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[15:40:39] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[15:40:39] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[15:40:40] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[15:40:40] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1152ms)
+[15:40:40] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[15:40:40] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[15:40:40] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:40:40] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[15:40:40] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[15:40:40] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.14+7149-8bea01b
+[15:40:40] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[15:40:40] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[15:40:40] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
+[15:40:41] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.5
+[15:40:42] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[15:40:42] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[15:40:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:40:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:40:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:40:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:40:42] [Server thread/INFO]: Preparing level "world"
+[15:40:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:40:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[15:40:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[15:40:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[15:40:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[15:40:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[15:40:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:40:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.5
+[15:40:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: f8c262a
+[15:40:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[15:40:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:40:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[15:40:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[15:40:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:40:43] [Server thread/INFO]: Preparing spawn area: 0%
+[15:40:43] [Server thread/INFO]: Preparing spawn area: 0%
+[15:40:43] [Server thread/INFO]: Time elapsed: 616 ms
+[15:40:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:40:43] [Server thread/INFO]: Preparing spawn area: 0%
+[15:40:43] [Server thread/INFO]: Time elapsed: 77 ms
+[15:40:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:40:43] [Server thread/INFO]: Preparing spawn area: 0%
+[15:40:43] [Server thread/INFO]: Time elapsed: 37 ms
+[15:40:43] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.1
+[15:40:44] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[15:40:44] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[15:40:44] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[15:40:44] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[15:40:44] [Server thread/INFO]: [Essentials] Loaded 43517 items from items.json.
+[15:40:44] [Server thread/INFO]: [Essentials] Using locale en_US
+[15:40:44] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[15:40:44] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[15:40:44] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[15:40:44] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[15:40:44] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.13+82fdc65
+[15:40:44] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[15:40:44] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[15:40:44] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[15:40:44] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[15:40:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[15:40:44] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[15:40:44] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[15:40:44] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[15:40:44] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[15:40:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[15:40:44] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[15:40:44] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[15:40:44] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[15:40:44] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[15:40:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[15:40:44] [Server thread/INFO]: [WorldGuard] Loading region data...
+[15:40:45] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.6
+[15:40:45] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[15:40:45] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.6
+[15:40:45] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[15:40:45] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[15:40:45] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[15:40:45] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[15:40:45] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[15:40:45] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[15:40:45] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[15:40:45] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.13.0
+[15:40:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using lang-en.yml as language file.
+[15:40:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 6 section configs from /sections/
+[15:40:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 6 shop configs from /shops/
+[15:40:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Updating Shop settings...
+[15:40:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Successfully hooked into Vault and using EssentialsX Economy as economy provider
+[15:40:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 1 economy provider(s) for all 4 shop sections.
+[15:40:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using minecraft version 1.21.4...
+[15:40:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Spawner provider set to AUTO in config
+[15:40:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Automatically searching for compatible spawner provider....
+[15:40:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Failed to automatically find compatible spawner provider, using default...
+[15:40:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Debug mode is enabled.
+[15:40:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Loading all items...
+[15:40:45] [Server thread/INFO]: [EconomyShopGUI] [WARN]: The place of shop Decoration in the main shop-inventory has automatically been changed to '0' because it was already used or could not be found.
+[15:40:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Initialized - Took 459ms to complete
+[15:40:45] [Server thread/INFO]: [spark] Starting background profiler...
+[15:40:45] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[15:40:45] [Server thread/INFO]: Done preparing level "world" (3.479s)
+[15:40:46] [Server thread/INFO]: Running delayed init tasks
+[15:40:46] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[15:40:46] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] Checking for Updates ... 
+[15:40:46] [Craft Scheduler Thread - 0 - Essentials/INFO]: [Essentials] Fetching version information...
+[15:40:46] [Server thread/INFO]: Done (16.209s)! For help, type "help"
+[15:40:46] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] No new version available
+[15:40:47] [User Authenticator #0/INFO]: UUID of player bonnie_donkis is f61be8ea-7157-34e9-8738-33cc3d93dc93
+[15:40:47] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:40:47] [Server thread/INFO]: bonnie_donkis[/76.170.82.182:57998] logged in with entity id 51 at ([world]-6.069074342768628, 148.0, -57.63704218875009)
+[15:40:47] [Server thread/INFO]: bonnie_donkis joined the server!
+[15:40:53] [Server thread/INFO]: bonnie_donkis issued server command: /sethome a
+[15:40:55] [Server thread/INFO]: bonnie_donkis issued server command: /sethome b
+[15:40:57] [Server thread/INFO]: bonnie_donkis issued server command: /homes
+[15:40:57] [User Authenticator #0/INFO]: UUID of player mwyi is 4d8584bb-d831-3963-b026-93d3217d45bc
+[15:40:58] [Server thread/INFO]: mwyi[/178.220.183.123:52561] logged in with entity id 381 at ([world]-28.144286161753634, 140.0, -118.96062227888953)
+[15:40:58] [Server thread/INFO]: mwyi joined the server!
+[15:40:59] [Server thread/INFO]: bonnie_donkis issued server command: /sethome c
+[15:41:00] [Server thread/INFO]: bonnie_donkis issued server command: /sethome d
+[15:41:02] [Server thread/INFO]: mwyi issued server command: /craft
+[15:41:02] [Server thread/INFO]: bonnie_donkis issued server command: /sethome e
+[15:41:04] [Server thread/INFO]: bonnie_donkis issued server command: /sethome f
+[15:41:05] [Server thread/INFO]: bonnie_donkis issued server command: /sethome g
+[15:41:31] [Server thread/INFO]: bonnie_donkis issued server command: /sethome tfhijouw3e4
+[15:41:33] [Server thread/INFO]: bonnie_donkis issued server command: /sethome t34
+[15:41:35] [Server thread/INFO]: bonnie_donkis issued server command: /sethome ge45rji
+[15:41:38] [Server thread/INFO]: bonnie_donkis issued server command: /sethome g34er5g
+[15:41:39] [Server thread/INFO]: bonnie_donkis issued server command: /homes
+[15:41:42] [Server thread/INFO]: bonnie_donkis issued server command: /delhome home
+[15:41:44] [Server thread/INFO]: bonnie_donkis issued server command: /delhome b
+[15:41:45] [Server thread/INFO]: bonnie_donkis issued server command: /delhome a
+[15:41:47] [Server thread/INFO]: bonnie_donkis issued server command: /delhome *
+[15:41:51] [Server thread/INFO]: bonnie_donkis issued server command: /sethome a
+[15:41:53] [Server thread/INFO]: bonnie_donkis issued server command: /deop bonnie_donkis
+[15:41:53] [Server thread/INFO]: [bonnie_donkis: Made bonnie_donkis no longer a server operator]
+[15:41:53] [User Authenticator #0/INFO]: UUID of player Alasadg is 18d3fd68-4225-3fb1-b67c-41514ed8e438
+[15:41:54] [Server thread/INFO]: Alasadg[/91.191.15.8:39104] logged in with entity id 487 at ([world]16.304268205968178, 122.0, -10.519908757190274)
+[15:41:54] [Server thread/INFO]: Alasadg joined the server!
+[15:41:56] [Server thread/INFO]: bonnie_donkis issued server command: /sethome b
+[15:41:56] [Server thread/INFO]: [Essentials] bonnie_donkis was denied access to command.
+[15:42:00] [Server thread/INFO]: Alasadg issued server command: /craft
+[15:42:00] [Server thread/INFO]: [Essentials] Alasadg was denied access to command.
+[15:42:00] [Server thread/INFO]: mwyi issued server command: /luckperms applyedits qgP44RRBZW
+[15:42:08] [Server thread/INFO]: Alasadg issued server command: /sethome 1
+[15:42:08] [Server thread/INFO]: [Essentials] Alasadg was denied access to command.
+[15:42:11] [Server thread/INFO]: mwyi issued server command: /luckperms applyedits qgP44RRBZW --force
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > (mwyi) [G] (default)
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.sethome.multiple true
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > (mwyi) [G] (default)
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.enderchest true
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > (mwyi) [G] (default)
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.disposal true
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > (mwyi) [G] (default)
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.delhome true
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > (mwyi) [G] (default)
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.sethome true
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > (mwyi) [G] (default)
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.home true
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > (mwyi) [G] (default)
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.anvil true
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > (mwyi) [G] (default)
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.cartographytable true
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > (mwyi) [G] (default)
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add craft true
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > (mwyi) [G] (default)
+[15:42:11] [luckperms-command-executor/INFO]: [LP] LOG > webeditor remove prefix.1.a true
+[15:42:14] [Server thread/INFO]: Alasadg lost connection: Disconnected
+[15:42:14] [Server thread/INFO]: Alasadg left the server.
+[15:42:32] [User Authenticator #0/INFO]: UUID of player NavySeal10000 is 950c7e15-0b53-3ecf-bdc1-ae14352088ac
+[15:42:32] [Server thread/INFO]: NavySeal10000[/108.90.170.106:57390] logged in with entity id 613 at ([world]638.0818394823482, 62.11076431274414, 1800.7795287605247)
+[15:42:33] [Server thread/INFO]: NavySeal10000 joined the server!

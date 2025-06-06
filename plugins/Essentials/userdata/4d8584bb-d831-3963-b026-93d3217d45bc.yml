@@ -16,23 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749248677974
-  login: 1749248499005
+  logout: 1749249907847
+  login: 1749249658639
 money: '0'
-last-account-name: mwyi
 logoutlocation:
   world: 4115495b-0710-4b04-8bfe-74c3987bb255
   world-name: world
-  x: 39.66943913886551
-  y: 121.0
-  z: 4.836403984974788
-  yaw: -108.093994140625
-  pitch: 17.956958770751953
-lastlocation:
-  world: 4115495b-0710-4b04-8bfe-74c3987bb255
-  world-name: world
-  x: 8.111002137259394
-  y: 115.16610926093821
-  z: 10.588270516613921
-  yaw: -63.45219802856445
-  pitch: 26.991666793823242
+  x: -13.02375275344745
+  y: 147.0
+  z: -65.33192541882353
+  yaw: 40.50790023803711
+  pitch: 16.96556854248047
+last-account-name: mwyi
