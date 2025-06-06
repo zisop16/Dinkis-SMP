@@ -17,7 +17,7 @@ colors:
   infoColor: GOLD
   errorColor: RED
 chunks:
-  maxChunksClaimed: 50
+  maxChunksClaimed: 26
   particlesWhenClaiming: true
   hideAlertsForVanishedPlayers: true
   automaticUnclaimSeconds: -1
@@ -36,11 +36,11 @@ chunkOutline:
   particlesPerSpawn: 2
   heightRadius: 3
 worldguard:
-  allowClaimsInRegionsByDefault: true
+  allowClaimsInRegionsByDefault: false
   allowClaimingInNonGuardedWorlds: true
   allowAdminOverride: true
 economy:
-  useEconomy: true
+  useEconomy: false
   claimPrice: 100.0
   unclaimReward: 10.0
   firstFreeChunks: 0
