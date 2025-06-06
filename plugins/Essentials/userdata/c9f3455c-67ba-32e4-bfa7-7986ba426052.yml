@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 2.242.29.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749251094597
+  login: 1749250897790
+money: '0'
+last-account-name: AmeliNyah
+lastlocation:
+  world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
+  world-name: world
+  x: -3442419.607456858
+  y: 64.0
+  z: -333583.8442787117
+  yaw: -41.82695770263672
+  pitch: 6.787313938140869
+logoutlocation:
+  world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
+  world-name: world
+  x: 336.22747046910354
+  y: 121.0
+  z: -25.009263931906872
+  yaw: 1.114946961402893
+  pitch: 18.612979888916016
