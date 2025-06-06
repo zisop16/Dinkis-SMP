@@ -1,0 +1,5 @@
+enable: true
+item:
+  material: PINK_CONCRETE_POWDER
+  displayname: '&d&lEstrogen'
+slot: 17

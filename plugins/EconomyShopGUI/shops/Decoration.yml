@@ -1,0 +1,147 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: MUSIC_DISC_13
+        buy: 150.0
+        sell: 25.0
+      '2':
+        material: MUSIC_DISC_CAT
+        buy: 150.0
+        sell: 25.0
+      '3':
+        material: MUSIC_DISC_CHIRP
+        buy: 150.0
+        sell: 25.0
+      '4':
+        material: MUSIC_DISC_FAR
+        buy: 150.0
+        sell: 25.0
+      '5':
+        material: MUSIC_DISC_MELLOHI
+        buy: 150.0
+        sell: 25.0
+      '6':
+        material: MUSIC_DISC_11
+        buy: 150.0
+        sell: 25.0
+      '7':
+        material: MUSIC_DISC_CREATOR_MUSIC_BOX
+        buy: 150.0
+        sell: 25.0
+      '8':
+        material: MUSIC_DISC_WAIT
+        buy: 250.0
+        sell: 25.0
+      '9':
+        material: MUSIC_DISC_CREATOR
+        buy: 250.0
+        sell: 25.0
+      '10':
+        material: MUSIC_DISC_OTHERSIDE
+        buy: 250.0
+        sell: 25.0
+      '11':
+        material: MUSIC_DISC_PRECIPICE
+        buy: 250.0
+        sell: 25.0
+      '12':
+        material: MUSIC_DISC_RELIC
+        buy: 250.0
+        sell: 25.0
+      '13':
+        material: MUSIC_DISC_5
+        buy: 250.0
+        sell: 25.0
+      '14':
+        material: MUSIC_DISC_PIGSTEP
+        buy: 250.0
+        sell: 25.0
+      '15':
+        material: SENTRY_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 500.0
+        sell: 50.0
+      '16':
+        material: WILD_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 500.0
+        sell: 50.0
+      '17':
+        material: COAST_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 500.0
+        sell: 50.0
+      '18':
+        material: DUNE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 500.0
+        sell: 50.0
+      '19':
+        material: WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 500.0
+        sell: 50.0
+      '20':
+        material: RAISER_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 500.0
+        sell: 50.0
+      '21':
+        material: HOST_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 500.0
+        sell: 50.0
+      '22':
+        material: SHAPER_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 500.0
+        sell: 50.0
+      '23':
+        material: VEX_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 500.0
+        sell: 50.0
+      '24':
+        material: WARD_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 750.0
+        sell: 50.0
+      '25':
+        material: SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 2000.0
+        sell: 125.0
+      '26':
+        material: TIDE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 750.0
+        sell: 50.0
+      '27':
+        material: SNOUT_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 750.0
+        sell: 50.0
+      '28':
+        material: RIB_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 750.0
+        sell: 50.0
+      '29':
+        material: EYE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 2000.0
+        sell: 50.0
+      '30':
+        material: SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 2000.0
+        sell: 50.0
+      '31':
+        material: FLOW_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 750.0
+        sell: 50.0
+      '32':
+        material: BOLT_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 750.0
+        sell: 50.0
+      '33':
+        material: TOTEM_OF_UNDYING
+        buy: 750.0
+        sell: 25.0
+      '34':
+        material: ENCHANTED_GOLDEN_APPLE
+        buy: 3000.0
+        sell: 250.0
+      '35':
+        material: EXPERIENCE_BOTTLE
+        buy: 100.0
+        sell: 10.0
+      '36':
+        material: ENDER_PEARL
+        buy: 100.0
+        sell: 0.25

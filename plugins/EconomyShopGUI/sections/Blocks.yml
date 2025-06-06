@@ -1,0 +1,5 @@
+enable: true
+item:
+  material: COBBLESTONE
+  displayname: '&eBlocks'
+slot: 15

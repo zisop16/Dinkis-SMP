@@ -1,0 +1,5 @@
+enable: true
+item:
+  material: DISC_FRAGMENT_5
+  displayname: '&eDecoration'
+slot: 13

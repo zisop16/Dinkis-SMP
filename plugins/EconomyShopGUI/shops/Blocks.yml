@@ -1,0 +1,147 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: OAK_LEAVES
+        buy: 10.0
+        sell: 0.5
+      '2':
+        material: SPRUCE_LEAVES
+        buy: 10.0
+        sell: 0.5
+      '3':
+        material: BIRCH_LEAVES
+        buy: 10.0
+        sell: 0.5
+      '4':
+        material: JUNGLE_LEAVES
+        buy: 10.0
+        sell: 0.5
+      '5':
+        material: ACACIA_LEAVES
+        buy: 10.0
+        sell: 0.5
+      '6':
+        material: DARK_OAK_LEAVES
+        buy: 10.0
+        sell: 0.5
+      '7':
+        material: MANGROVE_LEAVES
+        buy: 10.0
+        sell: 0.5
+      '8':
+        material: CHERRY_LEAVES
+        buy: 10.0
+        sell: 0.5
+      '9':
+        material: PALE_OAK_LEAVES
+        buy: 10.0
+        sell: 0.5
+      '10':
+        material: FLOWERING_AZALEA_LEAVES
+        buy: 10.0
+        sell: 0.5
+      '11':
+        material: AZALEA_LEAVES
+        buy: 10.0
+        sell: 0.5
+      '23':
+        material: STONE_BRICKS
+        buy: 10.0
+        sell: 0.5
+      '24':
+        material: SANDSTONE
+        buy: 10.0
+        sell: 0.5
+      '25':
+        material: RED_SANDSTONE
+        buy: 10.0
+        sell: 0.5
+      '26':
+        material: BLACKSTONE
+        buy: 10.0
+        sell: 0.5
+      '27':
+        material: COBBLED_DEEPSLATE
+        buy: 10.0
+        sell: 0.5
+      '28':
+        material: COBBLESTONE
+        buy: 2.0
+        sell: 0.05
+      '29':
+        material: STONE
+        buy: 2.0
+        sell: 0.1
+      '30':
+        material: SPRUCE_LOG
+        buy: 1.0
+        sell: 0.25
+      '20':
+        material: OAK_LOG
+        buy: 10.0
+        sell: 0.05
+      '21':
+        material: BIRCH_LOG
+        buy: 10.0
+        sell: 0.05
+      '22':
+        material: JUNGLE_LOG
+        buy: 10.0
+        sell: 0.05
+      '31':
+        material: ACACIA_LOG
+        buy: 10.0
+        sell: 0.05
+      '32':
+        material: DARK_OAK_LOG
+        buy: 10.0
+        sell: 0.05
+      '33':
+        material: CHERRY_LOG
+        buy: 10.0
+        sell: 0.05
+      '34':
+        material: PALE_OAK_LOG
+        buy: 10.0
+        sell: 0.05
+      '35':
+        material: MANGROVE_LOG
+        buy: 10.0
+        sell: 0.05
+      '36':
+        material: REDSTONE
+        buy: 5.0
+        sell: 0.25
+      '37':
+        material: REPEATER
+        buy: 5.0
+        sell: 0.25
+      '38':
+        material: COMPARATOR
+        buy: 5.0
+        sell: 0.25
+      '39':
+        material: PISTON
+        buy: 5.0
+        sell: 0.25
+      '40':
+        material: SLIME_BALL
+        buy: 5.0
+        sell: 0.25
+      '41':
+        material: CHEST
+        buy: 5.0
+        sell: 0.01
+      '42':
+        material: ENDER_CHEST
+        buy: 500.0
+        sell: 5.0
+      '43':
+        material: OBSERVER
+        buy: 10.0
+        sell: 1.0
+      '44':
+        material: DISPENSER
+        buy: 10.0
+        sell: 0.25

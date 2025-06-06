@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 76.170.82.182
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1749245960017
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749245969406
+  login: 1749246116865
+money: '0'
+last-account-name: bonnie_donkis
+logoutlocation:
+  world: 4115495b-0710-4b04-8bfe-74c3987bb255
+  world-name: world
+  x: -55.66676014322735
+  y: 123.93050451123717
+  z: -47.30000001192093
+  yaw: 144.12115478515625
+  pitch: 43.29825973510742
+lastlocation:
+  world: 4115495b-0710-4b04-8bfe-74c3987bb255
+  world-name: world
+  x: -13.790728408663531
+  y: 137.0
+  z: -32.53898992965388
+  yaw: 85.68276977539062
+  pitch: 22.282556533813477

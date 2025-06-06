@@ -1,0 +1,1 @@
+java -Xmx13G -Xms13G -jar paper-server.jar --nogui

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.220.183.123
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749245994013
+  login: 1749245904667
+money: '0'
+last-account-name: mwyi
+logoutlocation:
+  world: 4115495b-0710-4b04-8bfe-74c3987bb255
+  world-name: world
+  x: 58.44878713425578
+  y: 123.0
+  z: -6.369262768564167
+  yaw: 157.8697967529297
+  pitch: 40.05088806152344
+lastlocation:
+  world: 4115495b-0710-4b04-8bfe-74c3987bb255
+  world-name: world
+  x: 8.111002137259394
+  y: 115.16610926093821
+  z: 10.588270516613921
+  yaw: -63.45219802856445
+  pitch: 26.991666793823242
