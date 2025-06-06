@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 108.90.170.106
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749247454974
+  login: 1749247242219
+money: '0'
+last-account-name: NavySeal10000
+logoutlocation:
+  world: 4115495b-0710-4b04-8bfe-74c3987bb255
+  world-name: world
+  x: -37.30000001192093
+  y: 150.0
+  z: -58.69999998807907
+  yaw: 54.30072021484375
+  pitch: 40.050045013427734

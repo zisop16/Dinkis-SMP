@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749245969406
-  login: 1749246116865
+  logout: 1749247484304
+  login: 1749247473404
 money: '0'
 last-account-name: bonnie_donkis
 logoutlocation:
   world: 4115495b-0710-4b04-8bfe-74c3987bb255
   world-name: world
-  x: -55.66676014322735
-  y: 123.93050451123717
-  z: -47.30000001192093
-  yaw: 144.12115478515625
-  pitch: 43.29825973510742
+  x: -2.740612823023899
+  y: 109.0
+  z: 11.320240456216439
+  yaw: -38.0565071105957
+  pitch: 29.428943634033203
 lastlocation:
   world: 4115495b-0710-4b04-8bfe-74c3987bb255
   world-name: world
