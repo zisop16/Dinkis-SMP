@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 104.28.240.85
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749269737925
+  login: 1749269760755
+money: '0'
+last-account-name: Fury_Jaguar
+logoutlocation:
+  world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
+  world-name: world
+  x: -1656.5648151468586
+  y: 100.0
+  z: -3578.3036540658163
+  yaw: 2.139873504638672
+  pitch: 3.254852294921875
+homes:
+  home:
+    world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
+    world-name: world
+    x: -1591.4593404766692
+    y: 123.0
+    z: -3564.9921121724333
+    yaw: 115.98434448242188
+    pitch: 20.83714485168457

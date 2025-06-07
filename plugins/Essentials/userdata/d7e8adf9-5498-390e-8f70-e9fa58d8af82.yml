@@ -1,0 +1,48 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 45.20.194.253
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1749256060673
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749256617730
+  login: 1749256590820
+money: '0'
+last-account-name: SparkPink
+nickname: SparkPink
+homes:
+  dinkis:
+    world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
+    world-name: world
+    x: 974.2527842800716
+    y: 33.0
+    z: 598.1173670953285
+    yaw: -146.832763671875
+    pitch: 17.54999542236328
+lastlocation:
+  world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
+  world-name: world
+  x: 50.23171410163751
+  y: 64.0
+  z: -117.04082444188859
+  yaw: 166.500244140625
+  pitch: 20.399904251098633
+logoutlocation:
+  world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
+  world-name: world
+  x: 975.3000000119209
+  y: 32.0
+  z: 597.7393762634601
+  yaw: 108.15885925292969
+  pitch: 1.049852728843689

@@ -1,0 +1,193 @@
+pages:
+  page1:
+    items:
+      '2':
+        material: DIAMOND
+        buy: 350.0
+        sell: 2.5
+      '3':
+        material: NETHERITE_SCRAP
+        buy: 1000.0
+        sell: 10.0
+      '4':
+        material: ELYTRA
+        buy: 500000.0
+        sell: 450.0
+      '5':
+        material: MUSIC_DISC_OTHERSIDE
+        buy: 500.0
+        sell: 5.0
+      '6':
+        material: MUSIC_DISC_CREATOR
+        buy: 500.0
+        sell: 5.0
+      '7':
+        material: MUSIC_DISC_PIGSTEP
+        buy: 500.0
+        sell: 5.0
+      '11':
+        material: ENDER_PEARL
+        buy: 100.0
+        sell: 0.5
+      '12':
+        material: TOTEM_OF_UNDYING
+        buy: 500.0
+        sell: 5.0
+      '13':
+        material: ENCHANTED_GOLDEN_APPLE
+        buy: 7500.0
+        sell: 125.0
+      '14':
+        material: SADDLE
+        buy: 200.0
+        sell: 5.0
+      '15':
+        material: NAME_TAG
+        buy: 200.0
+        sell: 5.0
+      '20':
+        material: STRING
+        buy: 5.0
+        sell: 0.5
+      '21':
+        material: BONE
+        buy: 5.0
+        sell: 0.5
+      '22':
+        material: ROTTEN_FLESH
+        buy: 5.0
+        sell: 0.5
+      '23':
+        material: GUNPOWDER
+        buy: 10.0
+        sell: 0.5
+      '19':
+        material: IRON_INGOT
+        buy: 25.0
+        sell: 0.5
+      '24':
+        material: GOLD_INGOT
+        buy: 25.0
+        sell: 0.5
+      '25':
+        material: REDSTONE
+        buy: 10.0
+        sell: 0.5
+      '26':
+        material: LAPIS_LAZULI
+        buy: 10.0
+        sell: 0.5
+      '27':
+        material: LEATHER
+        buy: 5.0
+        sell: 0.25
+      '28':
+        material: WHITE_WOOL
+        buy: 5.0
+        sell: 0.25
+      '29':
+        material: CHORUS_FRUIT
+        buy: 5.0
+        sell: 0.05
+      '30':
+        material: SHROOMLIGHT
+        buy: 5.0
+        sell: 0.05
+      '31':
+        material: GLOWSTONE
+        buy: 5.0
+        sell: 0.1
+      '32':
+        material: TURTLE_EGG
+        buy: 25.0
+        sell: 0.25
+      '33':
+        material: OCHRE_FROGLIGHT
+        buy: 25.0
+        sell: 0.5
+      '34':
+        material: VERDANT_FROGLIGHT
+        buy: 25.0
+        sell: 0.5
+      '35':
+        material: PEARLESCENT_FROGLIGHT
+        buy: 25.0
+        sell: 0.5
+      '36':
+        material: REPEATER
+        buy: 10.0
+        sell: 0.5
+      '37':
+        material: SLIME_BALL
+        buy: 10.0
+        sell: 0.5
+      '38':
+        material: OBSERVER
+        buy: 10.0
+        sell: 0.5
+      '39':
+        material: PISTON
+        buy: 10.0
+        sell: 0.5
+      '40':
+        material: SHULKER_SHELL
+        buy: 2000.0
+        sell: 20.0
+      '41':
+        material: EYE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 25000.0
+        sell: 15.0
+      '42':
+        material: SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 25000.0
+        sell: 15.0
+      '43':
+        material: SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 25000.0
+        sell: 15.0
+      '44':
+        material: STONE_AXE
+        buy: 750.0
+        sell: 10.0
+        name: §dᴀᴍᴀᴢɪɴɢ ᴀxᴇ
+        enchantments:
+        - UNBREAKING:3
+        - EFFICIENCY:10
+      '45':
+        material: STONE_PICKAXE
+        buy: 750.0
+        sell: 10.0
+        name: §dᴀᴍᴀᴢɪɴɢ pickaxe
+        enchantments:
+        - UNBREAKING:3
+        - EFFICIENCY:10
+      '46':
+        material: EMERALD
+        buy: 25.0
+        sell: 0.75
+      '47':
+        material: BLAZE_POWDER
+        buy: 25.0
+        sell: 0.15
+      '48':
+        material: COAL
+        buy: 5.0
+        sell: 0.25
+      '49':
+        material: QUARTZ
+        buy: 5.0
+        sell: 0.05
+      '50':
+        material: TROPICAL_FISH
+        buy: 5.0
+        sell: 0.55
+      '51':
+        material: COD
+        buy: 5.0
+        sell: 0.4
+      '52':
+        material: SALMON
+        buy: 5.0
+        sell: 0.35
+  page2:
+    items: {}

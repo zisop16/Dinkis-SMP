@@ -11,28 +11,46 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1749255466725
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749249911641
-  login: 1749250433193
-money: '1254.37'
+  logout: 1749256080782
+  login: 1749252466285
+money: '1244.37'
 logoutlocation:
-  world: 4115495b-0710-4b04-8bfe-74c3987bb255
+  world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
   world-name: world
-  x: 1183.1632348122519
-  y: 62.11076431274414
-  z: 1885.7221894201432
-  yaw: -105.37032318115234
-  pitch: 15.599971771240234
+  x: 988.3000000119209
+  y: 63.0
+  z: 5352.1757010569745
+  yaw: -128.700439453125
+  pitch: 3.5999228954315186
 last-account-name: NavySeal10000
 lastlocation:
   world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
   world-name: world
-  x: 0.300223314522228
-  y: 0.0
-  z: 5000.699999988079
-  yaw: -57.19512176513672
-  pitch: 17.100074768066406
+  x: 979.0509990624012
+  y: 65.0
+  z: 5474.424281093426
+  yaw: 25.500568389892578
+  pitch: 4.499905109405518
+homes:
+  togenkyo:
+    world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
+    world-name: world
+    x: 911.343079311949
+    y: 109.0
+    z: 5627.35809447815
+    yaw: -93.00116729736328
+    pitch: 81.44999694824219
+  spawn:
+    world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
+    world-name: world
+    x: -0.740151828677575
+    y: 64.0
+    z: -20.175124943342556
+    yaw: -107.9901123046875
+    pitch: 13.885050773620605
+nickname: n4vy

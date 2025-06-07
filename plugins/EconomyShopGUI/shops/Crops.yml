@@ -1,79 +1,174 @@
 pages:
   page1:
     items:
+      '1':
+        material: WHEAT
+        buy: 1.0
+        sell: 0.25
       '2':
-        material: SWEET_BERRIES
-        buy: 10.0
-        sell: 2.0
+        material: POTATO
+        buy: 1.0
+        sell: 0.1
       '3':
-        material: SEA_PICKLE
-        buy: 10.0
-        sell: 6.0
+        material: CARROT
+        buy: 1.0
+        sell: 0.1
       '4':
         material: BEETROOT
-        buy: 10.0
-        sell: 4.0
+        buy: 1.0
+        sell: 0.1
       '5':
-        material: CACTUS
-        buy: 10.0
-        sell: 4.0
+        material: SWEET_BERRIES
+        buy: 1.0
+        sell: 0.15
       '6':
-        material: SUGAR_CANE
-        buy: 10.0
-        sell: 4.0
-      '7':
-        material: CARROT
-        buy: 10.0
-        sell: 1.5
-      '8':
-        material: POTATO
-        buy: 10.0
-        sell: 1.5
-      '9':
-        material: WHEAT
-        buy: 10.0
+        material: WITHER_ROSE
+        buy: 1.0
         sell: 2.0
+      '7':
+        material: CACTUS
+        buy: 1.0
+        sell: 0.3
+      '8':
+        material: SUGAR_CANE
+        buy: 1.0
+        sell: 0.2
+      '9':
+        material: NETHER_WART
+        buy: 1.0
+        sell: 0.1
       '10':
-        material: MELON_SEEDS
-        buy: 12.0
-        sell: 0.5
+        material: BAMBOO
+        buy: 1.0
+        sell: 0.02
       '11':
-        material: PUMPKIN_SEEDS
-        buy: 12.0
-        sell: 0.5
-      '12':
-        material: WHEAT_SEEDS
-        buy: 12.0
-        sell: 0.25
-      '13':
-        material: BEETROOT_SEEDS
-        buy: 12.0
-        sell: 0.5
-      '14':
         material: BROWN_MUSHROOM
-        buy: 10.0
-        sell: 1.5
-      '15':
+        buy: 1.0
+        sell: 0.2
+      '12':
         material: RED_MUSHROOM
-        buy: 10.0
-        sell: 1.5
+        buy: 1.0
+        sell: 0.1
+      '13':
+        material: WARPED_FUNGUS
+        buy: 1.0
+        sell: 0.15
+      '14':
+        material: SEA_PICKLE
+        buy: 1.0
+        sell: 0.75
+      '15':
+        material: CRIMSON_FUNGUS
+        buy: 1.0
+        sell: 0.15
       '16':
-        material: ROTTEN_FLESH
-        buy: 10.0
-        sell: 1.25
+        material: OAK_LEAVES
+        buy: 1.0
+        sell: 0.05
       '17':
-        material: GUNPOWDER
-        buy: 10.0
-        sell: 1.25
+        material: SPRUCE_LEAVES
+        buy: 1.0
+        sell: 0.05
       '18':
-        material: FEATHER
-        buy: 10.0
-        sell: 1.0
+        material: BIRCH_LEAVES
+        buy: 1.0
+        sell: 0.05
       '19':
-        material: WHITE_WOOL
-        buy: 10.0
-        sell: 0.5
+        material: JUNGLE_LEAVES
+        buy: 1.0
+        sell: 0.05
       '20':
-        material: EMERALD
-        buy: 50.0
-        sell: 3.0
+        material: ACACIA_LEAVES
+        buy: 1.0
+        sell: 0.05
+      '21':
+        material: DARK_OAK_LEAVES
+        buy: 1.0
+        sell: 0.05
+      '22':
+        material: MANGROVE_LEAVES
+        buy: 1.0
+        sell: 0.05
+      '23':
+        material: CHERRY_LEAVES
+        buy: 1.0
+        sell: 0.05
+      '24':
+        material: PALE_OAK_LEAVES
+        buy: 1.0
+        sell: 0.05
+      '25':
+        material: AZALEA_LEAVES
+        buy: 1.0
+        sell: 0.05
+      '26':
+        material: FLOWERING_AZALEA_LEAVES
+        buy: 1.0
+        sell: 0.05
+      '27':
+        material: OAK_SAPLING
+        buy: 1.0
+        sell: 0.1
+      '28':
+        material: SPRUCE_SAPLING
+        buy: 1.0
+        sell: 0.1
+      '29':
+        material: BIRCH_SAPLING
+        buy: 1.0
+        sell: 0.1
+      '30':
+        material: JUNGLE_SAPLING
+        buy: 1.0
+        sell: 0.1
+      '31':
+        material: ACACIA_SAPLING
+        buy: 1.0
+        sell: 0.1
+      '32':
+        material: DARK_OAK_SAPLING
+        buy: 1.0
+        sell: 0.1
+      '33':
+        material: CHERRY_SAPLING
+        buy: 1.0
+        sell: 0.1
+      '34':
+        material: STONE_HOE
+        buy: 3500.0
+        sell: 10.0
+        name: §dᴀᴍᴀᴢɪɴɢ ʜᴏᴇ
+        enchantments:
+        - FORTUNE:4
+      '35':
+        material: ENCHANTED_BOOK
+        buy: 700.0
+        sell: 3.5
+        enchantments:
+        - UNBREAKING:2
+      '36':
+        material: ENCHANTED_BOOK
+        buy: 1000.0
+        sell: 1.5
+        enchantments:
+        - MENDING:1
+      '37':
+        material: PUMPKIN
+        buy: 15.0
+        sell: 0.5
+      '38':
+        material: MELON_SLICE
+        buy: 15.0
+        sell: 0.06
+      '39':
+        material: NAUTILUS_SHELL
+        buy: 15.0
+        sell: 0.1
+      '40':
+        material: HEART_OF_THE_SEA
+        buy: 150.0
+        sell: 10.0
+      '41':
+        material: EXPERIENCE_BOTTLE
+        buy: 90.0
+        sell: 5.0
