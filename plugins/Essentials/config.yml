@@ -951,9 +951,9 @@ chat:
   # Note: The {DISPLAYNAME} placeholder includes {PREFIX} and {SUFFIX} by default.
   # Using these together may result in double prefixes/suffixes in chat.
 
-  format: '&7>&f> &b{DISPLAYNAME}: {MESSAGE}'
-  format: '&7[{GROUP}]&r {DISPLAYNAME}&7:&r {MESSAGE}'
-  format: '&7{PREFIX}&r {NICKNAME}&r &7{SUFFIX}&r: {MESSAGE}'
+  format: '&7[&dᴄʜᴀᴛ&7] {NICKNAME}: &b{MESSAGE}'
+  format: '&7[&dᴄʜᴀᴛ&7] {NICKNAME}: &b{MESSAGE}'
+  format: '&7[&dᴄʜᴀᴛ&7] {NICKNAME}: &b{MESSAGE}'
 
   # You can also specify a format for each type of chat.
   #format:
