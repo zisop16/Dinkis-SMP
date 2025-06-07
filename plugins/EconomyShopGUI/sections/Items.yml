@@ -1,0 +1,5 @@
+enable: true
+item:
+  material: DIAMOND
+  displayname: '&d&lITEMS'
+slot: 26

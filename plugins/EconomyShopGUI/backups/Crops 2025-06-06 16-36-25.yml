@@ -1,0 +1,5 @@
+enable: true
+item:
+  material: wheat
+  displayname: '&eDecoration'
+slot: 13

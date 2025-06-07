@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 213.130.93.70
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749258312923
+  login: 1749258241879
+money: '0'
+last-account-name: toiletkittyaly
+homes:
+  a:
+    world: 2772e8bd-3b45-474e-90a1-e78b3b906b64
+    world-name: world_nether
+    x: -430373.10857050266
+    y: 51.0
+    z: -41705.12924954404
+    yaw: -34.510498046875
+    pitch: 21.689865112304688
+logoutlocation:
+  world: 2772e8bd-3b45-474e-90a1-e78b3b906b64
+  world-name: world_nether
+  x: -430387.3000000119
+  y: 44.0
+  z: -41726.00769642141
+  yaw: 101.779052734375
+  pitch: 42.62636947631836

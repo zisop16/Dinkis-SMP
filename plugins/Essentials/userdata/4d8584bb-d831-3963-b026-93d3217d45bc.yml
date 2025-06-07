@@ -11,28 +11,29 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1749251724041
+  lastteleport: 1749269854378
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749251544147
-  login: 1749251597891
-money: '0'
+  logout: 1749269737974
+  login: 1749269766897
+money: '3.1'
 logoutlocation:
   world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
   world-name: world
-  x: 338.92990938813114
-  y: 121.0
-  z: -22.9460005359949
-  yaw: 71.182373046875
-  pitch: 22.537792205810547
+  x: -363.831387070127
+  y: 109.17675927506424
+  z: 179.48572883114903
+  yaw: 92.23365020751953
+  pitch: 10.11375617980957
 last-account-name: mwyi
 lastlocation:
   world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
   world-name: world
-  x: 328.43636835159225
-  y: 122.53805493905625
-  z: -12.386847041104376
-  yaw: -148.16485595703125
-  pitch: 15.136947631835938
+  x: 923.6563108779841
+  y: 58.56206162959601
+  z: 454.56406351156556
+  yaw: 11.029052734375
+  pitch: 3.066828966140747
+nickname: §fmwyi

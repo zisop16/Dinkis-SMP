@@ -1,5 +1,5 @@
 enable: true
 item:
-  material: wheat
-  displayname: '&eDecoration'
-slot: 13
+  material: OAK_LEAVES
+  displayname: '&a&lPlants'
+slot: 21
