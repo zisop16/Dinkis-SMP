@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.86.251.250
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749492912223
+  login: 1749492968072
+money: '902.0'
+last-account-name: ThePowerOfAura
+lastlocation:
+  world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
+  world-name: world
+  x: -0.5
+  y: 64.0
+  z: -4.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
+  world-name: world
+  x: 202.6677103939023
+  y: 66.0
+  z: -214.30163350934268
+  yaw: -147.4368438720703
+  pitch: 45.450199127197266

@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 195.32.113.66
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1749494038862
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749492737476
+  login: 1749493959163
+money: '0'
+last-account-name: Nicolo8
+logoutlocation:
+  world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
+  world-name: world
+  x: -657.2926447594365
+  y: 82.0
+  z: 253.05575693860047
+  yaw: 24.46933937072754
+  pitch: 12.300005912780762
+homes:
+  home:
+    world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
+    world-name: world
+    x: -660.9511283464622
+    y: 82.0
+    z: 251.522868144198
+    yaw: -45.73065948486328
+    pitch: 5.400012493133545
+  two:
+    world: 7fadb062-2743-4ae5-b261-e40a190a1fd5
+    world-name: world_the_end
+    x: -1878.0160072111994
+    y: 57.0
+    z: 1081.0923074139469
+    yaw: 140.10760498046875
+    pitch: 44.10038375854492
+lastlocation:
+  world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
+  world-name: world
+  x: -658.0733642435969
+  y: 82.0
+  z: 253.3970130915649
+  yaw: 56.26715087890625
+  pitch: 18.749984741210938

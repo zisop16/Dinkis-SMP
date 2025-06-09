@@ -1,0 +1,5 @@
+enable: true
+item:
+  material: stone
+  displayname: '&9&lBlocks'
+slot: 17

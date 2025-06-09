@@ -172,3 +172,14 @@ pages:
         material: EXPERIENCE_BOTTLE
         buy: 90.0
         sell: 5.0
+      '42':
+        material: WATER_BUCKET
+        buy: 10.0
+        sell: 0.35
+      '43':
+        material: SHEARS
+        buy: 35.0
+        sell: 5.0
+        name: §dtwayz shears
+        enchantments:
+        - UNBREAKING:10

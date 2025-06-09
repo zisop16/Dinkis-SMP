@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749256617730
-  login: 1749256590820
+  logout: 1749329777976
+  login: 1749325266281
 money: '0'
 last-account-name: SparkPink
 nickname: SparkPink
@@ -41,8 +41,8 @@ lastlocation:
 logoutlocation:
   world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
   world-name: world
-  x: 975.3000000119209
+  x: 977.004308111424
   y: 32.0
-  z: 597.7393762634601
-  yaw: 108.15885925292969
-  pitch: 1.049852728843689
+  z: 602.7751549243812
+  yaw: 91.93096923828125
+  pitch: 25.650022506713867

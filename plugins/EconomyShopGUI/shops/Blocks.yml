@@ -1,0 +1,127 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: OAK_LOG
+        buy: 2.0
+        sell: 0.1
+      '2':
+        material: SPRUCE_LOG
+        buy: 2.0
+        sell: 0.1
+      '3':
+        material: BIRCH_LOG
+        buy: 2.0
+        sell: 0.1
+      '4':
+        material: JUNGLE_LOG
+        buy: 2.0
+        sell: 0.1
+      '5':
+        material: ACACIA_LOG
+        buy: 2.0
+        sell: 0.1
+      '6':
+        material: DARK_OAK_LOG
+        buy: 2.0
+        sell: 0.1
+      '7':
+        material: MANGROVE_LOG
+        buy: 2.0
+        sell: 0.1
+      '8':
+        material: CHERRY_LOG
+        buy: 2.0
+        sell: 0.1
+      '9':
+        material: PALE_OAK_LOG
+        buy: 2.0
+        sell: 0.1
+      '10':
+        material: COBBLESTONE
+        buy: 2.0
+        sell: 0.025
+      '11':
+        material: SAND
+        buy: 2.0
+        sell: 0.025
+      '12':
+        material: OBSIDIAN
+        buy: 10.0
+        sell: 0.75
+      '13':
+        material: TERRACOTTA
+        buy: 2.0
+        sell: 0.01
+      '14':
+        material: NETHER_BRICKS
+        buy: 2.0
+        sell: 0.01
+      '15':
+        material: BRICKS
+        buy: 2.0
+        sell: 0.01
+      '16':
+        material: MUD_BRICKS
+        buy: 2.0
+        sell: 0.005
+      '17':
+        material: AMETHYST_BLOCK
+        buy: 5.0
+        sell: 0.05
+      '18':
+        material: CALCITE
+        buy: 5.0
+        sell: 0.05
+      '19':
+        material: DIORITE
+        buy: 5.0
+        sell: 0.005
+      '20':
+        material: GRAVEL
+        buy: 5.0
+        sell: 0.005
+      '21':
+        material: GRANITE
+        buy: 5.0
+        sell: 0.005
+      '22':
+        material: ANDESITE
+        buy: 5.0
+        sell: 0.005
+      '23':
+        material: MOSS_BLOCK
+        buy: 2.0
+        sell: 0.02
+      '24':
+        material: SPONGE
+        buy: 10.0
+        sell: 0.2
+      '25':
+        material: HONEY_BLOCK
+        buy: 10.0
+        sell: 0.5
+      '26':
+        material: GRASS_BLOCK
+        buy: 10.0
+        sell: 0.002
+      '27':
+        material: SOUL_SAND
+        buy: 10.0
+        sell: 0.005
+      '28':
+        material: BLACKSTONE
+        buy: 2.0
+        sell: 0.005
+      '29':
+        material: BASALT
+        buy: 2.0
+        sell: 0.005
+      '30':
+        material: END_STONE
+        buy: 10.0
+        sell: 0.01
+      '31':
+        material: COBBLED_DEEPSLATE
+        buy: 10.0
+        sell: 0.001

@@ -11,29 +11,46 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1749269854378
+  lastteleport: 1749420283442
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749269737974
-  login: 1749269766897
-money: '3.1'
+  logout: 1749421141423
+  login: 1749419225369
+money: '274.7999999999999938'
 logoutlocation:
   world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
   world-name: world
-  x: -363.831387070127
-  y: 109.17675927506424
-  z: 179.48572883114903
-  yaw: 92.23365020751953
-  pitch: 10.11375617980957
+  x: 952.938749433933
+  y: 101.0
+  z: 563.8156139616478
+  yaw: 107.4356689453125
+  pitch: 32.86003494262695
 last-account-name: mwyi
 lastlocation:
   world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
   world-name: world
-  x: 923.6563108779841
-  y: 58.56206162959601
-  z: 454.56406351156556
-  yaw: 11.029052734375
-  pitch: 3.066828966140747
-nickname: §fmwyi
+  x: 958.5023270666514
+  y: 35.0
+  z: 592.3000000119209
+  yaw: 111.92422485351562
+  pitch: 4.906861782073975
+nickname: mwyi
+homes:
+  home:
+    world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
+    world-name: world
+    x: 950.6610352511138
+    y: 41.0
+    z: 571.2802438720025
+    yaw: -23.762451171875
+    pitch: 15.246397018432617
+  surface:
+    world: 4d87bd66-1396-4e8f-9e2c-1f84ae0f5700
+    world-name: world
+    x: 954.8699285726478
+    y: 80.0
+    z: 575.309238127724
+    yaw: 165.9483642578125
+    pitch: 15.337397575378418
